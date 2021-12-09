@@ -1,0 +1,14 @@
+{
+  "packageName": "sdk-ebay-inventory",
+  "composerVendorName": "leibbrand-development",
+  "composerProjectName": "sdk-ebay-inventory",
+  "artifactVersion": "1.14",
+  "invokerPackage": "ld\\php\\sdkEbayInventory",
+  "modelPackage": "Model",
+  "apiPackage": "API",
+  "variableNamingConvention": "camelCase",
+  "srcBasePath": "src",
+  "gitUserId": "GuidoLeibbrand",
+  "gitRepoId": "sdk-ebay-inventory",
+  "validateSpec": true
+}
